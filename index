@@ -2,7 +2,7 @@
       <head>
       <title>Thomas</title>
 	  <script> 
-	   
+	   alert("Ola Mundo");
 	   </head>
 	   <body>
 	   Morenin Manerin 
